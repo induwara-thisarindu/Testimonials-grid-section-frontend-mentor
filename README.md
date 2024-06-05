@@ -49,9 +49,7 @@ Users should be able to:
 
 I learned how to use display grid and also learn to span across the grid I am happy that I made this without following a tutorial
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+Some CSS code I'm proud of
 ```css
 .testimonial-cards .cards {
     display: grid;
